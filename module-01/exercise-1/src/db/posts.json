@@ -1,0 +1,16 @@
+[
+  {
+    "_id": 1,
+    "title": "My new life in Germany",
+    "author": "Anastasiia Ivanova",
+    "publishDate": "22.08.2022",
+    "text": "My life in Germany began with our war at 24 of February 2022. Previously I had no idea that I can move here, learn German, looking for a new job in my new profesional"
+  },
+  {
+    "_id": 2,
+    "title": "Moving to Germany",
+    "author": "Anastasiia Ivanova",
+    "publishDate": "23.08.2022",
+    "text": "My moving starts from January 2022 from Yalta to Kyiv. Then 25 of February I moved from Kyiv to Tarasovka, and first of March I have standed along on the platform with my cat and small suitcase before сurfew with a hope that some train will be come for us"
+  }
+]
